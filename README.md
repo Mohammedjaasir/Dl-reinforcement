@@ -1,7 +1,3 @@
-Here’s a detailed **GitHub README** template for your project, focusing on **Advanced Driver Assistance Systems (ADAS)** with satellite imagery, lane detection, V2V communication, and collision detection.
-
----
-
 # **AI-Powered Advanced Driver Assistance System (ADAS) for Smart Cities**
 
 ## Overview
